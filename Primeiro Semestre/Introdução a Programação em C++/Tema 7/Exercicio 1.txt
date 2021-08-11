@@ -1,0 +1,13 @@
+Questão 1
+
+Solicitar várias idades e informar:
+a. Quantidade de idosos (ID >= 65)
+b. Quantidade de eleitores (ID >= 16)
+c. Soma das idades da pessoas aptas a dirigir (ID >= 18)
+Para de solicitar dados quando idade igual 0.
+
+Questão 2
+
+Escrever um programa que leia uma quantidade desconhecida de números e conte
+quantos deles estão nos seguintes intervalos: [0..25], [26..50], [51..75] e [76..100]. A
+entrada de dados deve terminar quando for lido um número negativo.

@@ -1,0 +1,6 @@
+ Faça um programa que leia o sexo e a idade de 10 pessoas e ao final informe: 
+ - Quantidade e porcentagem de homens; 
+ - Quantidade e porcentagem de mulheres; 
+ - Média das idades; 
+ - Maior idade do grupo; 
+ - Menor idade do grupo.
